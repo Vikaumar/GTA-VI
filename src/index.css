@@ -8,6 +8,6 @@
 html,body{
   height: 100%;
   width: 100%;
-  font-family: 'Pricedown';
+  font-family: 'Pricedown',sans-serif;
   background-color: black;
 }
