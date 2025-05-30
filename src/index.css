@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Sheriyans";
+  src: url("./pricedown.otf");
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  font-family: "Sheriyans";
+  background-color: black;
+}
