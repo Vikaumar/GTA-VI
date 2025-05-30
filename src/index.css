@@ -1,8 +1,9 @@
 @import "tailwindcss";
 @font-face {
-  font-family: "Sheriyans";
-  src: url("./pricedown.otf");
+  font-family: 'Pricedown';
+  src: url('/GTA-VI/assets/fonts/pricedown.otf') format('opentype');
 }
+
 html,body{
   height: 100%;
   width: 100%;
