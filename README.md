@@ -1,17 +1,8 @@
-# 🚗 GTA-Style Fan Website — GTA-VI
+ # 🚗 GTA-Style Fan Website — GTA-VI
 
 A fun, **GTA-inspired** single-page website built with **React + Vite** for practice and portfolio. This project is a fan-made tribute and learning exercise — not an official Rockstar Games product.
 
 **Live demo:** [https://vikaumar.github.io/GTA-VI/](https://vikaumar.github.io/GTA-VI/)
-
----
-
-## 📸 Preview
-
-> Place your screenshots inside `src/assets/` (or `public/assets/`) and update the paths if needed.
-
-![Homepage preview](./src/assets/screenshot1.png)
-![Section preview](./src/assets/screenshot2.png)
 
 ---
 
@@ -83,34 +74,7 @@ yarn build
 
 ```bash
 npm run preview
-# or
-yarn preview
 ```
-
----
-
-## 📦 Example `package.json` additions for GitHub Pages
-
-If you want to deploy to GitHub Pages using `gh-pages`, add a `homepage` field and deploy scripts:
-
-```json
-{
-  "homepage": "https://vikaumar.github.io/GTA-VI",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  }
-}
-```
-
-Install and deploy:
-
-```bash
-npm install --save-dev gh-pages
-npm run deploy
-```
-
-> Note: You already have the site deployed at the URL above — great job!
 
 ---
 
@@ -143,33 +107,12 @@ GTA-VI/
 
 ---
 
-## 🤝 Contributing
-
-Thanks for wanting to contribute! For small changes, follow this flow:
-
-1. Fork the repository
-2. Create a branch: `feature/your-change`
-3. Make your changes and commit
-4. Push the branch and open a Pull Request
-
-If you want a `CONTRIBUTING.md`, I can add a starter file.
-
----
 
 ## 📝 License & Disclaimer
 
 This project is a **fan project** for learning and practice. All trademarks, artwork, and game-related IP belong to their respective owners (e.g., Rockstar Games). This repository contains fan art and should be used only for educational or portfolio purposes.
 
 If you want to publish the repository with a license, **MIT** is recommended for personal projects. Let me know if you want me to add an `LICENSE` file.
-
----
-
-## ✨ Next steps I can help with
-
-* Add badges (React, Vite, License, Live Demo) to the top of the README
-* Create a `CONTRIBUTING.md` file
-* Add an `LICENSE` (MIT) file
-* Generate smaller optimized screenshots and place them in `src/assets/`
 
 ---
 
