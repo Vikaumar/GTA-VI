@@ -1,6 +1,6 @@
  # 🚗 GTA-Style Fan Website — GTA-VI
 
-A fun, **GTA-inspired** single-page website built with **React + Vite** for practice and portfolio. This project is a fan-made tribute and learning exercise — not an official Rockstar Games product.
+A fun, **GTA-inspired** single-page website built with **React + Vite** for practice. This project is a fan-made tribute and learning exercise — not an official Rockstar Games product.
 
 **Live demo:** [https://vikaumar.github.io/GTA-VI/](https://vikaumar.github.io/GTA-VI/)
 
